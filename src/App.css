@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.homeMenu{
+    display: flex;
+    gap: 70px;
+    font-size: x-large;
+    margin-top: 40px;
+}
+.homeFst{
+    margin-left: 50px;
+}
+.homeSec{
+    margin-right: 70px;
+}
+.homeCH{
+    color: #FA4A0C;
+}
+.back{
+    width: 100%;
+    margin-top: 30px;
+}
+.textCont{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 230px;
+    margin-left: 430px;
+}
+.app{
+    font-size: 24px;
+}
+.why{
+    font-size: 58px;
+}
+.down{
+    font-size: 24px;
+}
+.btn{
+    position: absolute;
+    top: 550px;
+    margin-left: 500px;
+    display: flex;
+
+}
+.btn2{
+    position: absolute;
+    top: 549px;
+    margin-left: 900px;
+
+}
+.phone{
+    position: absolute;
+    top: 530px;
+    margin-left: 450px;
+}
+.line{
+    width: 800px;
+    height: 1px;
+    background-color: gray;
+    margin-top: 600px;
+    margin-left: 400px;
+}
+.how{
+    font-size: 44px;
+    text-align: center;
+    margin-top: 70px;
+}
+.create{
+    color: #FA4A0C;
+    font-size: 24px;
+}
+.create1{
+    font-size: 44px;
+    margin-top: 15px;
+}
+.create2{
+    color: gray;
+    font-size: 24px;
+    margin-top: 15px;
+}
+.hh{
+    margin-top: 200px;
+    gap: 200px;
+}
+.phn{
+    margin-left: 100px;
+}
+.hhh{
+    margin-top: 200px;
+    gap: 200px;
+    margin-left: 150px;
+}
+.vack2{
+    width: 100%;
+}
+.back21{
+    position: absolute;
+    color: white;
+    top: 4150px;
+    text-align: center;
+    margin-left: 470px;
+}
+.downv{
+    font-size: 40px;
+}
+.av{
+    font-size: 24px;
+    margin-top: 20px;
+}
+.ms{
+    position: absolute;
+    top: 3800px;
+}
